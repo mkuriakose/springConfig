@@ -1,8 +1,8 @@
 ---
 wordConfig:
-  preamble: Environment is
+  preamble: Environment
   luckyWord: Production
   dataSource: prodDs
-  environment: Production
+  environment: Dev
   userId: Admin
   password: newUser
