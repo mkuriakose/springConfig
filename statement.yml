@@ -1,0 +1,6 @@
+---
+wordConfig:
+  preamble: Environment
+  datasource: Dev
+  userId: Admin
+  password: newPass
