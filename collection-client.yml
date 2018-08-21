@@ -2,3 +2,4 @@
 wordConfig:
   preamble: Environment is
   luckyWord: Production
+  dataSource: prodDs
