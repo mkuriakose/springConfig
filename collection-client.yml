@@ -3,3 +3,6 @@ wordConfig:
   preamble: Environment is
   luckyWord: Production
   dataSource: prodDs
+  environment: Production
+  userId: Admin
+  password: newUser
