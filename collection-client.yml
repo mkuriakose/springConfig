@@ -1,6 +1,7 @@
 ---
 wordConfig:
   preamble: Environment
+  env: Dev
   luckyWord: Production
   dataSource: prodDs
   environment: Dev
