@@ -2,8 +2,8 @@
 wordConfig:
   preamble: Environment
   env: Dev
-  luckyWord: Production
-  dataSource: DevDs
-  environment: Development
+  luckyWord: Testing
+  dataSource: TestDs
+  environment: Test
   userId: Admin
   password: newUser
