@@ -3,7 +3,7 @@ wordConfig:
   preamble: Environment
   env: Dev
   luckyWord: Testing
-  dataSource: TestDs
-  environment: Test
+  dataSource: ProdDs
+  environment: Prod
   userId: Admin
   password: newUser
